@@ -1,6 +1,6 @@
 <img src="https://github.com/pallavimondal98/pallavimondal98/blob/main/Hii%20I%E2%80%99m%20Pallavi%20Mondal.gif" width="1000">
 <h1 align="center">Hi 👋, I'm Pallavi Mondal</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">pursuing 👨‍💻Full-Stack Web Development course 🚀</h3>
 <img align="right" alt:"coding" width:"500" src="https://media3.giphy.com/media/VIKOfvqJHcVDrdVivT/200.gif?cid=82a1493bxfroqpbewx5ihg71430opflm4rb2g8hp1cb34wl8&ep=v1_gifs_related&rid=200.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavimondal98&label=Profile%20views&color=0e75b6&style=flat" alt="pallavimondal98" /> </p>
