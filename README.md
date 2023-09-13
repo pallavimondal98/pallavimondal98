@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Pallavi Mondal</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="right" alt:"coding" width:"500" src="https://media3.giphy.com/media/VIKOfvqJHcVDrdVivT/200.gif?cid=82a1493bxfroqpbewx5ihg71430opflm4rb2g8hp1cb34wl8&ep=v1_gifs_related&rid=200.gif&ct=g">
